@@ -1,0 +1,6 @@
+Проверка на мошенничество
+https://bitcoinwhoswho.com/api/scam/api-key?address=your-bitcoin-address
+Проверка транзакций
+https://bitcoinwhoswho.com/api/trans/api-key?address=your-bitcoin-address
+Проверка поисковиками на совпадения в профильных форумах
+https://bitcoinwhoswho.com/api/url/api-key?address=your-bitcoin-address
